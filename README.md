@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vijayareddy2002
 - 👀 I’m interested in web development,software development,full stack development;
-- 🌱 I’m currently learning second btech .
+- 🌱 I’m currently pursuing second btech .
 - 📫 How to reach me 📧vijayareddyarikatla@gmail.com or mobile num:9515480869;
+- recently completed internship in MACHINE LEARNING in INDIAN SERVERS COMPANY;
 - i want to work in FAANG companies as well as IBM and some of the product based companies.
 
 <!---
